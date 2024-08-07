@@ -18,22 +18,25 @@
 <a href="https://attemptd.work/payWeb/">购买订阅</a> .<br>
 qq：474709357
 
-<div >
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/a4064a6b-6dd8-4ead-be83-3820845a81e4" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/58d63117-c360-40f9-aff0-fd54a0f0d0ae" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/69cdd9c6-7749-4fef-bc19-74dc7ca76134" width=30%/>
+<div>
+ <img width="973" alt="截屏2024-08-07 14 26 02" src="https://github.com/user-attachments/assets/9d5e7a93-d18e-4de9-b9f2-57f8d20cea1b">
+<img width="970" alt="截屏2024-08-07 14 25 39" src="https://github.com/user-attachments/assets/9f4a9b83-197c-4d0d-bb6c-a25154c843c4">
 </div>
 
 <div >
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/7fdf0c13-3c7d-48c9-9e5d-198434581630" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/ca5191e2-deef-450b-b2d6-447a4e6accbb" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/e6395cb3-80fd-48fe-a70c-5fceb989ec62" width=30%/>
+ <img width="974" alt="截屏2024-08-07 14 25 08" src="https://github.com/user-attachments/assets/c4aed699-2bf7-4041-a41e-b0b24b43638f">
+<img width="975" alt="截屏2024-08-07 14 20 55" src="https://github.com/user-attachments/assets/1a225381-4caa-49da-b7b2-3e0f51c77212">
 </div>
 
 <div >
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/e051ae53-15fc-4f79-a58c-c37ffd188b5c" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/62cb461a-3b16-4b00-ab35-7c0a2f0d7d43" width=30%/>
-  <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/621ff064-3183-43e0-bd4d-aa7c0e395f50" width=30%/>
+ <img width="982" alt="截屏2024-08-07 14 20 42" src="https://github.com/user-attachments/assets/dc30be76-5d84-4d2a-8172-64becfc5151d">
+<img width="974" alt="截屏2024-08-07 14 20 23" src="https://github.com/user-attachments/assets/0af3f761-621e-4c96-b317-587bcaaca664">
+</div>
+
+<div >
+ <img width="985" alt="截屏2024-08-07 14 19 56" src="https://github.com/user-attachments/assets/1477e5da-4bb6-4347-accb-e8b2be9acae7">
+<img width="976" alt="截屏2024-08-07 14 19 39" src="https://github.com/user-attachments/assets/6e4afd0d-7c0f-432d-8274-956767de4725">
+
 </div>
 
 
