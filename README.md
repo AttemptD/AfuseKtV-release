@@ -16,7 +16,7 @@
 
 如果你想购买订阅请访问一下，代理问的话会失败哦
 <a href="https://attemptd.work/payWeb/">购买订阅</a> .<br>
-qq：474709357
+qq：680093723
 
 <div>
  <img width="973" alt="截屏2024-08-07 14 26 02" src="https://github.com/user-attachments/assets/9d5e7a93-d18e-4de9-b9f2-57f8d20cea1b">
