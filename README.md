@@ -12,6 +12,9 @@
 
 
 <a href="https://www.attemptd.work/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
+
+<a href="https://github.com/AttemptD/AfuseKt-release">移动端版本</a> .<br>
+
 有问题的，或者讨论的请加qq群，关于tg所有东西都将退出，不再有群和频道
 
 由于qq群人数限制，所以没办法开启tg群进行售后反馈
