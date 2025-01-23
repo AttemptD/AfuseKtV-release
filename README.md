@@ -8,7 +8,7 @@
 支持协议：Alist，SMB，Webdav，Emby（直连），jellyfin（直连），阿里网盘.<br>
 资源库仅支持：通过AfuseKt移动端同步资源库.<br>
 
-最低版本支持安卓6.<br>
+最低版本支持安卓5.<br>
 
 
 <a href="https://www.attemptd.work/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
