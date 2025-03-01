@@ -11,7 +11,7 @@
 最低版本支持安卓5.<br>
 
 
-<a href="https://www.attemptd.work/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
+<a href="https://www.afusekt.cn/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
 
 <a href="https://github.com/AttemptD/AfuseKt-release">移动端版本</a> .<br>
 
