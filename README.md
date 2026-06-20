@@ -5,7 +5,7 @@
 欢迎大家使用Afusekt TV版本.<br>
 本库为该App发布release版本，不包含任何代码.<br>
 包含功能刮削，播放视频.<br>
-支持协议：Alist，SMB，Webdav，Emby（直连），jellyfin（直连），PLex，阿里网盘,115,123.<br>
+支持协议：Alist，SMB，Webdav，Emby（直连），jellyfin（直连），PLex，阿里网盘，百度网盘,115,123.<br>
 资源库仅支持：通过AfuseKt移动端同步资源库.<br>
 
 最低版本支持安卓6 ，安卓5版本需要下载2.x版本.<br>
