@@ -2,6 +2,9 @@
 
 
 <a href="README-EG.md" >English</a> <br>
+
+目前已解决ISO播放问题将在 3.1.0 发布，不用忍受VLC那缓慢得加载速度并支持杜比/HDR
+
 欢迎大家使用Afusekt TV版本.<br>
 本库为该App发布release版本，不包含任何代码.<br>
 包含功能刮削，播放视频.<br>
