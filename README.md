@@ -27,7 +27,6 @@
 如果你想购买订阅请访问一下，代理问的话会失败哦
 <a href="https://c.fakamiao.top/shopDetail/aac86t">购买订阅</a> .<br>
 
-
 <div>
  <img width="973" alt="截屏2024-08-07 14 26 02" src="https://github.com/user-attachments/assets/841d2cff-c45b-4da6-9c4e-2799d2432ad4">
 <img width="970" alt="截屏2024-08-07 14 25 39" src="https://github.com/user-attachments/assets/2842a2c2-955d-42e2-b44f-7cb10576f63a">
